@@ -1,0 +1,14 @@
+/Users/macyeskelsen/RiderProjects/Mission1/bin/Debug/net8.0/Mission1
+/Users/macyeskelsen/RiderProjects/Mission1/bin/Debug/net8.0/Mission1.deps.json
+/Users/macyeskelsen/RiderProjects/Mission1/bin/Debug/net8.0/Mission1.runtimeconfig.json
+/Users/macyeskelsen/RiderProjects/Mission1/bin/Debug/net8.0/Mission1.dll
+/Users/macyeskelsen/RiderProjects/Mission1/bin/Debug/net8.0/Mission1.pdb
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.AssemblyInfoInputs.cache
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.AssemblyInfo.cs
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.csproj.CoreCompileInputs.cache
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.dll
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/refint/Mission1.dll
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.pdb
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/Mission1.genruntimeconfig.cache
+/Users/macyeskelsen/RiderProjects/Mission1/obj/Debug/net8.0/ref/Mission1.dll
