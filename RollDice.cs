@@ -5,10 +5,7 @@ public class RollDice()
 {
     public int[] RollBothDice(int totalRolls)
     {
-        
-        // print the number
-        // calculate the percentage of time each num was rolled
-        // print an asterisk for every 1 percent it was rolled
+        // initialize vairables
         Random random = new Random();
         int[] rolltotalsarray = new int[11];
         int die1 = 0;
@@ -32,7 +29,7 @@ public class RollDice()
         }
     
      
-        
+        // return array
         return rolltotalsarray;
     }
 }
